@@ -1,6 +1,6 @@
 package imgui_example_sdl3_sdlgpu3
 
-// This is an example of using the bindings with SDL3 and ...
+// This is an example of using the bindings with SDL3 and SDLGPU3
 // Based on the above at tag `v1.92.4-docking` (e7d2d63)
 
 DISABLE_DOCKING :: #config(DISABLE_DOCKING, false)
